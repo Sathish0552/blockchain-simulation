@@ -18,7 +18,7 @@ This project simulates a basic blockchain that mimics the core features of a blo
 To get started with this project, you'll need Python 3.x installed on your machine.
 
 ### 1. Clone the Repository:
-```bash
+
 ->git clone https://github.com/Sathish0552/blockchain-simulation.git
 ->cd blockchain-simulation
 
